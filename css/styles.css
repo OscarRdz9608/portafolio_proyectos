@@ -88,6 +88,15 @@ body {
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
+.lead1 {
+  text-align: justify;
+}
+.cva {
+  font-size: 1.25rem;
+  font-weight: 300;
+  column-gap: 15px;
+  display: flex;
+}
 
 hr {
   margin: 1rem 0;
